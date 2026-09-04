@@ -49,13 +49,13 @@
       <doorcode>0000</doorcode>
     </Door>
     <Door>
-      <toroom area="01" index="00" />
+      <toroom area="01" index="02" />
       <bitflag>00</bitflag>
-      <direction>00</direction>
+      <direction>04</direction>
       <tilex>1</tilex>
       <tiley>6</tiley>
       <screenx>00</screenx>
-      <screeny>04</screeny>
+      <screeny>00</screeny>
       <distance>8000</distance>
       <doorcode>0000</doorcode>
     </Door>
