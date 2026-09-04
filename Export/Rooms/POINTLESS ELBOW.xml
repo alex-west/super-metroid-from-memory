@@ -2,8 +2,8 @@
   <Saves />
   <index>08</index>
   <area>00</area>
-  <x>00</x>
-  <y>00</y>
+  <x>2E</x>
+  <y>0D</y>
   <width>01</width>
   <height>01</height>
   <upscroll>70</upscroll>
@@ -119,7 +119,7 @@
       <layer2_type>Layer2</layer2_type>
       <layer2_xscroll>00</layer2_xscroll>
       <layer2_yscroll>00</layer2_yscroll>
-      <ScrollData>02 </ScrollData>
+      <ScrollData const="0001" />
       <roomvar>0000</roomvar>
       <FX2>0000</FX2>
       <PLMs />

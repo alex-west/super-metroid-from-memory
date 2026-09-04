@@ -85,6 +85,28 @@
       <distance>8000</distance>
       <doorcode>0000</doorcode>
     </Door>
+    <Door>
+      <toroom area="00" index="08" />
+      <bitflag>00</bitflag>
+      <direction>00</direction>
+      <tilex>6</tilex>
+      <tiley>D</tiley>
+      <screenx>00</screenx>
+      <screeny>00</screeny>
+      <distance>8000</distance>
+      <doorcode>0000</doorcode>
+    </Door>
+    <Door>
+      <toroom area="00" index="16" />
+      <bitflag>00</bitflag>
+      <direction>04</direction>
+      <tilex>1</tilex>
+      <tiley>6</tiley>
+      <screenx>00</screenx>
+      <screeny>00</screeny>
+      <distance>8000</distance>
+      <doorcode>0000</doorcode>
+    </Door>
   </Doors>
   <States>
     <State condition="E612">
