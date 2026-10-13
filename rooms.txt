@@ -34,9 +34,13 @@ old mb room
   - 230 Missiles
 - Brinstar
   - Vileplume Power Bombs
+  - Red Brinstar Save
   - Alpha Power Bombs
 - Norfair
   - Business Center
+  - Pre High Jump Room
+- Maridia
+  - Da Beach
 
 === oi
 
